@@ -33,4 +33,4 @@ elif opt == 4:
 	except ModuleNotFoundError:
 		print("Requested Encryption type not found!")
 else:
-	print("The option you enterd is INVALIDn !")
+	print("The option you enterd is INVALID !")
